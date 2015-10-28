@@ -1,13 +1,12 @@
 {
   "name": "Text Battery Level",
-  "description": "Display battery level in text",
+  "description": "Display battery level in text. https://github.com/gasolin/fxos-text-battery",
   "developer": {
     "name": "John Hu & gasolin"
   },
   "package_path": "package.zip",
   "icons": {
     "128": "/icons/128.png",
-    "256": "/icons/256.png",
-    "512": "/icons/512.png"
+    "256": "/icons/256.png"
   }
 }
