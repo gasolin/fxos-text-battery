@@ -4,8 +4,10 @@
   "developer": {
     "name": "John Hu & gasolin"
   },
-  "dependencies": {
-    "gulp": "*",
-    "gulp-zip": "*"
+  "package_path": "package.zip",
+  "icons": {
+    "128": "/icons/128.png",
+    "256": "/icons/256.png",
+    "512": "/icons/512.png"
   }
 }

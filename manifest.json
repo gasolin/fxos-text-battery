@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "Text Battery Level",
+  "description": "Display battery level in text",
+  "version": "1.2",
+  "developer": {
+    "name": "John Hu & gasolin"
+  },
+  "package_path": "package.zip",
+  "content_scripts": [
+    {
+      "matches": "app://system.gaiamobile.org/index.html",
+      "css": [],
+      "js": ["main.js"]
+    }
+  ],
+  "icons": {
+    "128": "/icons/128.png",
+    "256": "/icons/256.png",
+    "512": "/icons/512.png"
+  }
+}
