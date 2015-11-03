@@ -1,5 +1,5 @@
 {
-  "name": "Text Battery Level",
+  "name": "text-battery-level",
   "description": "Display battery level in text",
   "developer": {
     "name": "John Hu & gasolin"

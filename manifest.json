@@ -2,11 +2,10 @@
   "manifest_version": 2,
   "name": "Text Battery Level",
   "description": "Display battery level in text. https://github.com/gasolin/fxos-text-battery",
-  "version": "1.2",
+  "version": "1.2.1",
   "developer": {
     "name": "John Hu & gasolin"
   },
-  "package_path": "package.zip",
   "content_scripts": [
     {
       "matches": "app://system.gaiamobile.org/index.html",
